@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTest", "ApiTest.csproj", "{2CD7C9D8-7EF3-4E5E-9C99-8F713989AD4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTest", "ApiTest\ApiTest.csproj", "{2CD7C9D8-7EF3-4E5E-9C99-8F713989AD4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTest.Contracts", "..\ApiTest.Contracts\ApiTest.Contracts.csproj", "{DFC07FAC-9E3F-4689-A2AE-9CA964867702}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTest.Contracts", "ApiTest.Contracts\ApiTest.Contracts.csproj", "{DFC07FAC-9E3F-4689-A2AE-9CA964867702}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTest.Entity", "..\ApiTest.Entity\ApiTest.Entity.csproj", "{DBB539BE-D526-44F1-B446-BCB5DC3458D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTest.Entity", "ApiTest.Entity\ApiTest.Entity.csproj", "{DBB539BE-D526-44F1-B446-BCB5DC3458D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
